@@ -1,0 +1,10 @@
+dataset,model,mu,sigma,loc,scale,df,shape,alpha,a,m,b
+aarset_failure_times,Normal,45.68600000000001,32.50523656274478,,,,,,,,
+aarset_failure_times,Laplace,,,48.5,29.554000000000002,,,,,,
+aarset_failure_times,StudentT,,,45.68563047093349,32.50522435942385,971708701.8759542,,,,,
+aarset_failure_times,Gamma,,,0.0,57.1716304110142,,0.7991026261024476,,,,
+aarset_failure_times,Lognormal,,,0.0,21.73630628460058,,1.7481131178340212,,,,
+aarset_failure_times,Weibull,,,0.0,44.91248027708566,,0.9490423185270473,,,,
+aarset_failure_times,Exponential,,,0.0,45.68600000000001,,,,,,
+aarset_failure_times,NUVM,45.68791914625126,32.504914616681496,,,,,0.0001,,,
+aarset_failure_times,TVMN,45.65834236711718,,,,,,,1037.9706788321512,1055.2151323936607,1059.3340752514423
